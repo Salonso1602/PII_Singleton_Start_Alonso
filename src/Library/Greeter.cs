@@ -6,7 +6,7 @@ namespace Library
     {
         public void SayHiToTheWorld()
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Hello World!\n");
         }
     }
 }
